@@ -2,7 +2,7 @@
 
 Повністю самостійний bash скрипт
 
-[wp.sh] (/wp.sh)
+[wp.sh](/wp.sh)
 
 ## Digital Ocean
 
