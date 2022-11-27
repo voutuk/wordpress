@@ -1,5 +1,11 @@
-# wordpress
-Install Wordpress Apache
+## Bash скрипт
+
+Повністю самостійний bash скрипт
+
+[wp.sh] (/wp.sh)
+
+## Digital Ocean
+
 `sudo su` - rootуємся :)
 
 `apt update && apt upgrade` - оновлення пакетів
